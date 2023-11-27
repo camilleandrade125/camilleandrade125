@@ -1,6 +1,6 @@
 ### Olá, eu sou a Camille ! 🌱
 
-![Camille GitHub stats](https://github-readme-stats.vercel.app/api?username=camilleandrade125&show_icons=true&theme=dracula&count_private=true)
+![Camille GitHub stats](https://github-readme-stats.vercel.app/api?username=camilleandrade125&show_icons=true&theme=onedark&count_private=true)
 
 ## Tecnologias 
 
